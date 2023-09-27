@@ -4,3 +4,6 @@
 [submodule "Security-Price-Prediction--R"]
 	path = Security-Price-Prediction--R
 	url = https://github.com/github-deepak-saini/Security-Price-Prediction--R
+[submodule "Supply-Chain-Optimization--R"]
+	path = Supply-Chain-Optimization--R
+	url = https://github.com/github-deepak-saini/Supply-Chain-Optimization--R
