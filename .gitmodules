@@ -7,3 +7,6 @@
 [submodule "Supply-Chain-Optimization--R"]
 	path = Supply-Chain-Optimization--R
 	url = https://github.com/github-deepak-saini/Supply-Chain-Optimization--R
+[submodule "Factors-Affecting-Fertility-Rates--R"]
+	path = Factors-Affecting-Fertility-Rates--R
+	url = https://github.com/github-deepak-saini/Factors-Affecting-Fertility-Rates--R
