@@ -10,3 +10,6 @@
 [submodule "Titanic-Survivor-Prediction--Python"]
 	path = Titanic-Survivor-Prediction--Python
 	url = https://github.com/github-deepak-saini/Titanic-Survivor-Prediction--Python
+[submodule "Telecom-Customer-Churn-Decision-Tree--Python"]
+	path = Telecom-Customer-Churn-Decision-Tree--Python
+	url = https://github.com/github-deepak-saini/Telecom-Customer-Churn-Decision-Tree--Python
