@@ -9,7 +9,7 @@ This repository currenntly includes the following projects:
 
 <ins>***Using Python***</ins>
 
-1. [Decision Tree for Customer Churn using Python](https://github.com/github-deepak-saini/Customer-Churn-Decision-Tree--Python/tree/47626f0ab7a78f075b80069b6ca26e5b3646caa8 "Submodule: Decision-Tree--Python")
+1. [Decision Tree for Telecom Customer Churn using Python](https://github.com/github-deepak-saini/Telecom-Customer-Churn-Decision-Tree--Python/tree/9b6aa7b3267dc2be90be04f7a67c31035efb3434 "Submodule: Decision-Tree--Python")
 2. [Predicting survival of the passangers of Titanic using Python](https://github.com/github-deepak-saini/Titanic-Survivor-Prediction--Python/tree/0ca06667c34228ebde60de1a4809776a07078550 "Submodule: Titanic-Survivor-Prediction--Python")
 
 <ins>***Using R***</ins>
