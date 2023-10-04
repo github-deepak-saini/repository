@@ -10,6 +10,3 @@
 [submodule "Telecom-Customer-Churn-Decision-Tree--Python"]
 	path = Telecom-Customer-Churn-Decision-Tree--Python
 	url = https://github.com/github-deepak-saini/Telecom-Customer-Churn-Decision-Tree--Python
-[submodule "Factors-Affecting-Fertility-Rates--R"]
-	path = Factors-Affecting-Fertility-Rates--R
-	url = https://github.com/github-deepak-saini/Factors-Affecting-Fertility-Rates--R
