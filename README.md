@@ -16,7 +16,7 @@ This repository currenntly includes the following projects:
 
 1. [Security Price Prediction (Regression and Classification) using R](https://github.com/github-deepak-saini/Security-Price-Prediction--R/tree/20978b53513a84634d60fbb036bc5e778d11b8e1 "Submodule: Security-Price-Prediction--R")
 2. [Supply Chain Optimization through Linear Programming (LP) Model using R](https://github.com/github-deepak-saini/Supply-Chain-Optimization--R/tree/22e5a6cf0d1aac9b48ff0f1f875c76b05f052084 "Submodule: Supply-Chain-Optimization--R")
-3. [Study of the Factors Affecting Fertility Rates using R](https://github.com/github-deepak-saini/Factors-Affecting-Fertility-Rates--R/tree/046cf5225f3cdd6b717a0017b6306ae86e0e9d7e "Submodule: Factors-Affecting-Fertility-Rates--R")
+3. [Study of the Factors Affecting Fertility Rates using R](https://github.com/github-deepak-saini/Study-Factors-Affecting-Fertility-Rates--R/tree/32831002b6122949da57f837eb4b0b251d5925a9 "Submodule: Factors-Affecting-Fertility-Rates--R")
 
 <br>
 ⭐ ⭐ ⭐ ⭐ 
