@@ -2,7 +2,7 @@
 URL: https://github.com/github-deepak-saini/repository. 
 <br>
 
-This is a repository of the work I have been involved with in domains such as Actuarial Science, Data Science, Business Analytics, Machine Learning, and Artificial Intelligence. 
+This is a repository of the work I have been involved with in domains such as Actuarial Science, Data Science, Business Analytics, Machine Learning and Artificial Intelligence. 
 <br>
 
 This repository currenntly includes the following projects: 
