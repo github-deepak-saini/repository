@@ -15,6 +15,7 @@ This repository currenntly includes the following projects:
 1. [Decision Tree for Telecom Customer Churn using Python](https://github.com/github-deepak-saini/Telecom-Customer-Churn-Decision-Tree--Python/tree/9b6aa7b3267dc2be90be04f7a67c31035efb3434 "Submodule: Decision-Tree--Python")
 2. [Predicting survival of the passangers of Titanic using Python](https://github.com/github-deepak-saini/Titanic-Survivor-Prediction--Python/tree/0ca06667c34228ebde60de1a4809776a07078550 "Submodule: Titanic-Survivor-Prediction--Python")
 3. [Classification through Support Vector Machine (SVM) using Python](https://github.com/github-deepak-saini/Classification-by-Support-Vector-Machine--Python/tree/98c7ee774a2fb278910ff76d5a95c14efb46bf42 "Submodule: Classification-by-Support-Vector-Machine--Python")
+4. [Principal Component Analysis (PCA) for Dimensionality Reduction using Python](https://github.com/github-deepak-saini/Principal-Component-Analysis--Python/tree/f6679dc136e031cc2d07db0f1118231ed2d6fc23 "Submodule: Principal-Component-Analysis--Python")
 
 ⭐ ⭐ ⭐ ⭐ 
 
