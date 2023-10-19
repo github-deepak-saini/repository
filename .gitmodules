@@ -16,3 +16,6 @@
 [submodule "Classification-by-Support-Vector-Machine--Python"]
 	path = Classification-by-Support-Vector-Machine--Python
 	url = https://github.com/github-deepak-saini/Classification-by-Support-Vector-Machine--Python
+[submodule "Principal-Component-Analysis--Python"]
+	path = Principal-Component-Analysis--Python
+	url = https://github.com/github-deepak-saini/Principal-Component-Analysis--Python
