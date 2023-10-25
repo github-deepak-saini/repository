@@ -19,3 +19,6 @@
 [submodule "Principal-Component-Analysis--Python"]
 	path = Principal-Component-Analysis--Python
 	url = https://github.com/github-deepak-saini/Principal-Component-Analysis--Python
+[submodule "Linear-Regression-and-Prediction--Python"]
+	path = Linear-Regression-and-Prediction--Python
+	url = https://github.com/github-deepak-saini/Linear-Regression-and-Prediction--Python
