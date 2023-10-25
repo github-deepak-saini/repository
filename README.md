@@ -16,6 +16,7 @@ This repository currenntly includes the following projects:
 2. [Predicting survival of the passangers of Titanic using Python](https://github.com/github-deepak-saini/Titanic-Survivor-Prediction--Python/tree/0ca06667c34228ebde60de1a4809776a07078550 "Submodule: Titanic-Survivor-Prediction--Python")
 3. [Classification through Support Vector Machine (SVM) using Python](https://github.com/github-deepak-saini/Classification-by-Support-Vector-Machine--Python/tree/98c7ee774a2fb278910ff76d5a95c14efb46bf42 "Submodule: Classification-by-Support-Vector-Machine--Python")
 4. [Principal Component Analysis (PCA) for Dimensionality Reduction using Python](https://github.com/github-deepak-saini/Principal-Component-Analysis--Python/tree/f6679dc136e031cc2d07db0f1118231ed2d6fc23 "Submodule: Principal-Component-Analysis--Python")
+5. [Linear Regression and Prediction using Python](https://github.com/github-deepak-saini/Linear-Regression-and-Prediction--Python/tree/724ecd928d1affc5d887aa57e9a7db56331407ac "Submodule: Linear-Regression-and-Prediction--Python")
 
 ⭐ ⭐ ⭐ ⭐ 
 
